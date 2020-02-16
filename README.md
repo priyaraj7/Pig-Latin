@@ -20,7 +20,7 @@ _If the first consonants include "qu", move the "u" along with the "q". Don't fo
 
 _For words beginning with "y", treat "y" as a consonant._
 
-## Specifications:\_
+## Specifications:
 
 | Behavior                          |     Input Example      | Output Example               |
 | --------------------------------- | :--------------------: | :--------------------------- |
